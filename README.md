@@ -13,10 +13,13 @@ User Statistics: Users in the dataset have, on average, 101 public repositories 
 
 Top Companies: 
   -Popular companies include Microsoft (8 users), GitHub (6 users), and Zalando (5 users), showing an active developer presence in these firms.
+  
 Top Languages:
   -The most common languages are JavaScript (6,815 repositories), Python (3,592), and Ruby (1,948), reflecting popular choices for open-source contributions.
+  
 Repository Stats:
   -Repositories have an average of 46 stars and watchers, indicating steady interest and engagement across repositories.
+  
 Licensing:
   -The MIT license is most common (11,123 repos), followed by Apache-2.0 (4,380 repos), with a preference for permissive licensing.
 
